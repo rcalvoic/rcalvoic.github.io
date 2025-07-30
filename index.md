@@ -5,7 +5,7 @@
 <div style="display: flex; gap: 20px;">
 <div style="flex: 2;">
 Rafael Calvo is Chair of Design Engineering and Director of Community Engagement and Outreach at the Dyson School of Design Engineering, Imperial College London. He was Director of Research between 2020 and 2024. He joined Imperial in July 2019 after being Professor at the University of Sydney and Fellow of the Australian Research Council. Rafael has published 3 books and over 250 papers on computational intelligence and its applications to health and education. He has taught at several universities, high schools, and professional training institutions, and worked at the Language Technology Institute in Carnegie Mellon University, Universidad Nacional de Rosario (Argentina), and on sabbaticals at the University of Cambridge and the University of Memphis.
-
+<br>
 He is Co-Editor of the IEEE Transactions on Technology and Society, and serves on the editorial boards of the Journal of Engineering Design and JMIR Human Factors. He has been Associate Editor for IEEE Transactions in Affective Computing and IEEE Transactions in Learning Technologies. Rafael was Editor of the Oxford Handbook of Affective Computing and co-author of "Positive Computing" (MIT Press).
 </div>
 <div style="flex: 1;">
