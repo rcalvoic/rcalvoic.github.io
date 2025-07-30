@@ -14,19 +14,19 @@ He is Co-Editor of the IEEE Transactions on Technology and Society, and serves o
 </div>
 
 # Research
-- Design Engineering
-- Artificial Intelligence and Natural Language Processing
-- Public Health and Health Services
-- Information Systems
-- Psychology
+1. Design Engineering
+2. Artificial Intelligence and Natural Language Processing
+3. Public Health and Health Services
+4. Information Systems
+5. Psychology
 
 Some of our projects:
-*   Headgear: a mental health app for male dominated industries (funded by the Movember Foundation)
-*   KissMyAsthma: An app for young people with asthma (funded by Asthma Australia)
-*   [Brisa](http://brisa.care) (funded by EPSRC and [Asthma and Lung UK](https://www.asthmaandlung.org.uk)): A WhatsApp chatbot for people with asthma.
-- Minder Chat (funded by the [Dementia Research Institute](https://www.imperial.ac.uk/uk-dri-care-research-technology/))
-*   [Impact Salud](https://impact-salud.org/en/) (funded by NIHR)
-*   [Culturally Appropriate Language Models and Systems](https://calms.ai) (funded by Leverhulme Trust)
+* Headgear: a mental health app for male dominated industries (funded by the Movember Foundation)
+* KissMyAsthma: An app for young people with asthma (funded by Asthma Australia)
+* [Brisa](http://brisa.care) (funded by EPSRC and [Asthma and Lung UK](https://www.asthmaandlung.org.uk)): A WhatsApp chatbot for people with asthma.
+* Minder Chat (funded by the [Dementia Research Institute](https://www.imperial.ac.uk/uk-dri-care-research-technology/))
+* [Impact Salud](https://impact-salud.org/en/) (funded by NIHR)
+* [Culturally Appropriate Language Models and Systems](https://calms.ai) (funded by Leverhulme Trust)
 
 # Selected Publications
 - Calvo, R. A., D'Mello, S., Gratch, J., & Kappas, A. (Eds.). (2015). *The Oxford Handbook of Affective Computing*. Oxford University Press.

@@ -1,10 +1,14 @@
-title: Rafael A. Calvo's Personal Website
-description: Personal web page for Professor Rafael A. Calvo, showcasing biography, research, publications, and contact information.
+title: Rafael A. Calvo's
+description: Personal web page
 baseurl: ""
 url: "https://rcalvoic.github.io"
 theme: jekyll-theme-cayman
 markdown: kramdown
 permalink: pretty
+
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 
 
 # Build settings
