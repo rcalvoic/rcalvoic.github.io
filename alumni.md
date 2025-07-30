@@ -1,3 +1,7 @@
+layout: page
+title: "Alumni"
+permalink: /
+
 # Alumni
 
 <ol>
