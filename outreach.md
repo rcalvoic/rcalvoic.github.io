@@ -2,6 +2,7 @@
 layout: default
 title: Outreach
 ---
+[Home](index.md) | [Research](research.md) | [Teaching](teaching.md) | [Outreach](outreach.md) 
 
 ## Outreach
 
