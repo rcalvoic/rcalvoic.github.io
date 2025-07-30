@@ -1,7 +1,8 @@
+---
 layout: page
 title: "Alumni"
 permalink: /
-
+---
 [Home](index.md) | [Research](research.md) | [Teaching](teaching.md) | [Outreach](outreach.md) 
 
 # Alumni

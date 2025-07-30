@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Research
@@ -7,6 +6,7 @@ title: Research
 
 
 [Alumni](alumni.md)
+
 [Publications](https://scholar.google.com/citations?hl=en&user=1-SzKjMAAAAJ&view_op=list_works&sortby=pubdate)
 
 ## Research
