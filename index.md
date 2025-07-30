@@ -12,12 +12,11 @@ He is Co-Editor of the IEEE Transactions on Technology and Society, and serves o
 
 # Research
 ## Research
+- Design Engineering
+- Artificial Intelligence and Natural Language Processing
 - Public Health and Health Services
 - Information Systems
 - Psychology
-- Artificial Intelligence and Image Processing
-- Natural Language Processing
-- Engineering Design
 
 # Selected Publications
 ## Selected Publications
