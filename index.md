@@ -33,4 +33,4 @@ Phone: +44 (0)20 7589 5111
 ## Links
 - [Imperial College Profile](https://profiles.imperial.ac.uk/r.calvo)
 - [Google Scholar](https://scholar.google.com/citations?user=6QkQKJwAAAAJ)
-- [LinkedIn](https://www.linkedin.com/in/rafaelcalvo/)
+- [LinkedIn](https://www.linkedin.com/in/rafael-a-calvo/)
