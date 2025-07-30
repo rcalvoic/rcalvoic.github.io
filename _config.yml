@@ -10,6 +10,5 @@ permalink: pretty
 # Build settings
 exclude:
   - README.md
-  - index.md
-  - _config.yml
+
 
