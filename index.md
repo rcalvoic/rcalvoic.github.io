@@ -9,7 +9,7 @@ Rafael Calvo is Chair of Design Engineering and Director of Community Engagement
 He is Co-Editor of the IEEE Transactions on Technology and Society, and serves on the editorial boards of the Journal of Engineering Design and JMIR Human Factors. He has been Associate Editor for IEEE Transactions in Affective Computing and IEEE Transactions in Learning Technologies. Rafael was Editor of the Oxford Handbook of Affective Computing and co-author of "Positive Computing" (MIT Press).
 </div>
 <div style="flex: 1;">
-  <img src="https://profiles.imperial.ac.uk/r.calvo/photo" alt="Professor Rafael A. Calvo" style="width: 100%; height: auto; border-radius: 8px;">
+  <img src="https://profiles.imperial.ac.uk/r.calvo/photo" alt="Professor Rafael A. Calvo" style="width: 150px; height: auto; border-radius: 8px;">
 </div>
 </div>
 
@@ -21,12 +21,12 @@ He is Co-Editor of the IEEE Transactions on Technology and Society, and serves o
 - Psychology
 
 Some of our projects:
-* Headgear: a mental health app for male dominated industries (funded by the Movember Foundation)
-* KissMyAsthma: An app for young people with asthma (funded by Asthma Australia)
-* [Brisa](http://brisa.care) (funded by EPSRC and [Asthma and Lung UK](https://www.asthmaandlung.org.uk)): A WhatsApp chatbot for people with asthma.
-* Minder Chat (funded by the [Dementia Research Institute](https://www.imperial.ac.uk/uk-dri-care-research-technology/))
-* [Impact Salud](https://impact-salud.org/en/) (funded by NIHR)
-* [Culturally Appropriate Language Models and Systems](https://calms.ai) (funded by Leverhulme Trust)
+*   Headgear: a mental health app for male dominated industries (funded by the Movember Foundation)
+*   KissMyAsthma: An app for young people with asthma (funded by Asthma Australia)
+*   [Brisa](http://brisa.care) (funded by EPSRC and [Asthma and Lung UK](https://www.asthmaandlung.org.uk)): A WhatsApp chatbot for people with asthma.
+- Minder Chat (funded by the [Dementia Research Institute](https://www.imperial.ac.uk/uk-dri-care-research-technology/))
+*   [Impact Salud](https://impact-salud.org/en/) (funded by NIHR)
+*   [Culturally Appropriate Language Models and Systems](https://calms.ai) (funded by Leverhulme Trust)
 
 # Selected Publications
 - Calvo, R. A., D'Mello, S., Gratch, J., & Kappas, A. (Eds.). (2015). *The Oxford Handbook of Affective Computing*. Oxford University Press.
