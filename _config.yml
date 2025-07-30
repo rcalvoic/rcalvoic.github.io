@@ -5,9 +5,7 @@ url: "https://rcalvoic.github.io"
 theme: jekyll-theme-cayman
 markdown: kramdown
 permalink: pretty
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+
 
 # Build settings
 exclude:
