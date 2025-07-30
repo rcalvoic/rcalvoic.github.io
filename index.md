@@ -1,3 +1,9 @@
+[Home](index.md) | [Research](research.md) | [Teaching](teaching.md) | [Outreach](outreach.md) | [Alumni](alumni.md) | [Contact](#contact)
+
+---
+
+# Biography
+...
 # Biography
 ## Biography
 Rafael Calvo is Chair of Design Engineering and Director of Community Engagement and Outreach at the Dyson School of Design Engineering, Imperial College London. He was Director of Research between 2020 and 2024. He joined Imperial in July 2019 after being Professor at the University of Sydney and Fellow of the Australian Research Council. Rafael has published 3 books and over 250 papers on computational intelligence and its applications to health and education. He has taught at several universities, high schools, and professional training institutions, and worked at the Language Technology Institute in Carnegie Mellon University, Universidad Nacional de Rosario (Argentina), and on sabbaticals at the University of Cambridge and the University of Memphis.
