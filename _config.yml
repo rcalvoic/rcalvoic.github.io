@@ -1,3 +1,16 @@
-theme: jekyll-theme-minimal
-title: Rafael Calvo's homepage
-description: Bookmark this to keep an eye on my project updates!
+title: Rafael A. Calvo's Personal Website
+description: Personal web page for Professor Rafael A. Calvo, showcasing biography, research, publications, and contact information.
+baseurl: ""
+url: "https://rcalvoic.github.io"
+theme: minima
+markdown: kramdown
+permalink: pretty
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Build settings
+exclude:
+  - README.md
+  - index.md
+  - _config.yml
