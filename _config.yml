@@ -2,7 +2,7 @@ title: Rafael A. Calvo's Personal Website
 description: Personal web page for Professor Rafael A. Calvo, showcasing biography, research, publications, and contact information.
 baseurl: ""
 url: "https://rcalvoic.github.io"
-theme: minima
+theme: jekyll-theme-cayman
 markdown: kramdown
 permalink: pretty
 plugins:
@@ -14,3 +14,4 @@ exclude:
   - README.md
   - index.md
   - _config.yml
+
